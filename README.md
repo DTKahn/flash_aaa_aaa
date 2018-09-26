@@ -1,0 +1,1 @@
+Basic flashcard application bootstrapped with create-react-app using Firebase for set storage and authentication.
